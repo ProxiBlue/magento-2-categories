@@ -15,6 +15,9 @@ So this extension can help you show on the top of the page the hot categories ar
 [![Total Downloads](https://poser.pugx.org/magepow/categories/downloads)](https://packagist.org/packages/magepow/categories)
 [![Daily Downloads](https://poser.pugx.org/magepow/categories/d/daily)](https://packagist.org/packages/magepow/categories)
 
+### Buy it
+  [Buy it on Magepow](https://magepow.net/magento-2-categories-extension.html)
+  
 ### 1. Highlight Features
 | Features  | Free Version  | Pro Version |
 | :------------ |:---------------:| :-----:|
@@ -62,7 +65,7 @@ Display optional subcategories on Product page
 
 Display optional subcategories on Shopping Cart page
 
-See more: [Demo free version](https://demo.magepow.com/categories/) - [Demo Pro version](https://demo.magepow.com/categoriespro/)
+See more: [Demo](https://demo.magepow.net/categoriespro/)
 
 [![Magento 2 Categories Free](https://github.com/magepow/magento-2-categories/blob/master/media/Mgento-2-category-4.jpg)](https://magepow.com/magento-2-categories-extension.html) [![Magento 2 Categories Pro](https://github.com/magepow/magento-2-categories/blob/master/media/magento-2-categories-3.jpg)](https://magepow.com/magento-2-categories-extension.html)
 
@@ -123,27 +126,51 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/alopay)
 
 
-**[Our Magento 2 Extensions](https://magepow.com/magento-2-extensions.html)**
+**[Our Website](https://magepow.net)**
 
-* [Magento 2 Recent Sales Notification](https://magepow.com/magento-2-recent-order-notification.html)
+**[Our Magento 2 Extensions](https://magepow.net/extensions.html)**
 
-* [Magento 2 Categories Extension](https://magepow.com/magento-categories-extension.html)
+* [Magento 2 Recent Order Notification](https://magepow.net/magento-2-recent-order-notification.html)
 
-* [Magento 2 Sticky Cart](https://magepow.com/magento-sticky-cart.html)
+* [Magento 2 Categories Extension](https://magepow.net/magento-2-categories-extension.html)
 
-* [Magento 2 Ajax Contact](https://magepow.com/magento-ajax-contact-form.html)
+* [Magento 2 Sticky Cart](https://magepow.net/magento-sticky-add-to-cart.html)
 
-* [Magento 2 Lazy Load](https://magepow.com/magento-lazy-load.html)
+* [Magento 2 Lazy Load](https://magepow.net/magento-2-lazy-load-extension.html)
 
-* [Magento 2 Mutil Translate](https://magepow.com/magento-multi-translate.html)
+* [Magento 2 Lookbook Pin Products](https://magepow.net/lookbook-pin-products.html)
 
-* [Magento 2 Instagram Integration](https://magepow.com/magento-2-instagram.html)
+* [Magento 2 Ajax add to cart](https://magepow.net/magento-2-ajax-add-to-cart.html)
 
-* [Magento 2 Lookbook Pin Products](https://magepow.com/lookbook-pin-products.html)
+* [Magento 2 Speed Optimizer](https://magepow.net/magento2-speed-optimizer.html)
 
-* [Magento 2 Product Slider](https://magepow.com/magento-product-slider.html)
+* [Magento 2 Quick Edit](https://magepow.net/magento-2-quick-edit.html)
 
-* [Magento 2 Product Banner](https://magepow.com/magento-2-banner-slider.html)
+* [Magento 2 Product Zoom](https://magepow.net/magento-2-product-zoom.html)
+
+* [Magento 2 Layered Navigation Advanced](https://magepow.net/magento-2-layered-navigation-advanced.html)
+
+* [Magento 2 Product Tags](https://magepow.net/magento-2-product-tags.html)
+
+* [Special Promotion for Magento 2](https://magepow.net/magento-2-special-promotion-extension.html)
+
+* [Magento 2 Size Chart](https://magepow.net/magento-2-size-chart.html)
+
+* [Magento 2 Auto related products](https://magepow.net/magento-2-auto-related-products.html)
+
+* [Magento 2 Sitemap Exclusion](https://magepow.net/magento-2-sitemap-exclusion.html)
+
+* [Magento 2 Mega Menu](https://magepow.net/magento-2-mega-menu.html)
+
+* [Magento 2 Sitemap](https://magepow.net/magento-2-sitemap.html)
+
+* [Magento 2 Ajax Wishlist](https://magepow.net/magento-2-ajax-wishlist.html)
+
+* [Magento 2 PDF Invoice Frontend](https://magepow.net/magento-2-pdf-invoice-frontend.html)
+
+* [Magento 2 Bundle Pack](https://magepow.net/magento-2-bundle-product.html)
+
+* [Magento 2 Product Zoom 360](https://magepow.net/magento-2-product-zoom-360.html)
 
 **[Our Magento 2 services](https://magepow.com/magento-services.html)**
 
